@@ -11,12 +11,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ingeniadevteam/brain.git"
+    "url": "git+https://github.com/ingeniadevteam/clysema-brain.git"
   },
   "bugs": {
-    "url": "https://github.com/ingeniadevteam/brain/issues"
+    "url": "https://github.com/ingeniadevteam/clysema-brain/issues"
   },
-  "homepage": "https://github.com/ingeniadevteam/brain#readme",
+  "homepage": "https://github.com/ingeniadevteam/clysema-brain#readme",
   "dependencies": {
     "brain.js": "^1.6.1"
   }
